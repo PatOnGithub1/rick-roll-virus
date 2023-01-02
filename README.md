@@ -9,4 +9,4 @@ Also, you may change the links if you like, it shouldnt do anyhting.
 
 Works on W10 and W11, anything below that i have no idea.
 
-If you want it to spread, do it yourself. I considered putting a variant that spreads, but i dont want to get an email going around that rickrolls people
+If you want it to spread, do it yourself. I considered adding a variant that spreads, but i don't want to get an email going around that rickrolls people
